@@ -1,0 +1,59 @@
+The Shawshank Redemption,1994,142,Tim Robbins,Morgan Freeman,Frank Darabont
+The Godfather,1972,175,Marlon Brando,Al Pacino,Francis Ford Coppola
+The Dark Knight,2008,152,Christian Bale,Heath Ledger,Christopher Nolan
+The Godfather: Part II,1974,202,Al Pacino,Robert De Niro,Francis Ford Coppola
+12 Angry Men,1957,96,Henry Fonda,Lee J. Cobb,Sidney Lumet
+The Lord of the Rings: The Return of the King,2003,201,Elijah Wood,Viggo Mortensen,Peter Jackson
+Pulp Fiction,1994,154,John Travolta,Uma Thurman,Quentin Tarantino
+Schindler's List,1993,195,Liam Neeson,Ralph Fiennes,Steven Spielberg
+Inception,2010,148,Leonardo DiCaprio,Joseph Gordon-Levitt,Christopher Nolan
+Soorarai Pottru,2020,153,Suriya,Aparna Balamurali,Sudha Kongara
+Fight Club,1999,139,Brad Pitt,Edward Norton,David Fincher
+The Lord of the Rings: The Fellowship of the Ring,2001,178,Elijah Wood,Ian McKellen,Peter Jackson
+Forrest Gump,1994,142,Tom Hanks,Robin Wright,Robert Zemeckis
+The Good, the Bad and the Ugly,1966,178,Clint Eastwood,Eli Wallach,Sergio Leone
+The Lord of the Rings: The Two Towers,2002,179,Elijah Wood,Ian McKellen,Peter Jackson
+The Matrix,1999,136,Keanu Reeves,Laurence Fishburne,Lana Wachowski
+Goodfellas,1990,146,Robert De Niro,Ray Liotta,Martin Scorsese
+Star Wars: Episode V - The Empire Strikes Back,1980,124,Mark Hamill,Harrison Ford,Irvin Kershner
+One Flew Over the Cuckoo's Nest,1975,133,Jack Nicholson,Louise Fletcher,Milos Forman
+Hamilton,2020,160,Lin-Manuel Miranda,Philipa Soo,Thomas Kail
+Parasite,2019,132,Song Kang-Ho,Sun-kyun Lee,Bong Joon Ho
+Interstellar,2014,169,Matthew McConaughey,Anne Hathaway,Christopher Nolan
+City of God,2002,130,Alexandre Rodrigues,Leandro Firmino,Fernando Meirelles
+Spirited Away,2001,125,Daveigh Chase,Suzanne Pleshette,Hayao Miyazaki
+Saving Private Ryan,1998,169,Tom Hanks,Matt Damon,Steven Spielberg
+The Green Mile,1999,189,Tom Hanks,Michael Clarke Duncan,Frank Darabont
+Life Is Beautiful,1997,116,Roberto Benigni,Nicoletta Braschi,Roberto Benigni
+Se7en,1995,127,Morgan Freeman,Brad Pitt,David Fincher
+The Silence of the Lambs,1991,118,Jodie Foster,Anthony Hopkins,Jonathan Demme
+Star Wars: Episode IV - A New Hope,1977,121,Mark Hamill,Harrison Ford,George Lucas
+Hara-Kiri,1962,133,Tatsuya Nakadai,Akira Ishihama,Masaki Kobayashi
+Seven Samurai,1954,207,Toshiro Mifune,Takashi Shimura,Akira Kurosawa
+It's a Wonderful Life,1946,130,James Stewart,Donna Reed,Frank Capra
+Joker,2019,122,Joaquin Pheonix,Rober De Niro,Todd Phillips
+Vikram Vedkha,2017,147,Madhavan,Vijay Sethupathi,Pushkar Kathir
+Whiplash,2014,106,Miles Teller,J.K. Simmons,Damien Chazelle
+The Intouchables,2011,112,Francois Cluzet,Omar Sy,Olivier Nakache
+The Prestige,2006,130,Christian Bale,Hugh Jackman,Christopher Nolan
+The Departed,2006,151,Leonardo DiCaprio,Matt Damon,Martin Scorsese
+The Pianist,2002,150,Adrien Brody,Thomas Kretschmann,Roman Polanski
+Gladiator,2000,155,Russell Crowe,Joaquin Phoenix,Ridley Scott
+American History X,1998,119,Edward Norton,Edward Furlong,Tony Kaye
+The Usual Suspects,1995,106,Kevin Spacey,Gabriel Byrne,Bryan Singer
+Leon: The Professional,1994,110,Jean Reno,Gary Oldman,Luc Besson
+The Lion King,1994,88,Matthew Broderick,Jeremy Irons,Roger Allers
+Terminator 2: Judgment Day,1991,137,Arnold Schwarzenegger,Linda Hamilton,James Cameron
+Cinema Paradiso,1988,155,Philippe Noiret,Enzo Cannavale,Guiseppe Tornatore
+Grave of the Fireflies,1988,89,Tsutomu Tatsumi,Ayano Shiraishi,Isao Takahata
+Back to the Future,1985,116,Michael J. Fox,Christopher Lloyd,Robert Zemeckis
+Once Upon a Time in the West,1968,165,Henry Fonda,Charles Bronson,Sergio Leone
+Psycho,1960,109,Anthony Perkins,Janet Leigh,Alfred Hitchcock
+Casablanca,1942,102,Humphrey Bogart,Ingrid Bergman,Michael Curtiz
+Modern Times,1936,87,Charles Chaplin,Paulette Goddard,Charles Chaplin
+City Lights,1931,87,Charles Chaplin,Virginia Cherrill,Charles Chaplin
+Capernaum,2018,126,Zain Al Rafeea,Yordanos Shiferaw,Nadine Labaki
+Ayla: The Daughter of War,2017,125,Cetin Tekindor,Ismail Hacioglu,Can Ulkay
+Your Name,2016,106,Ryunosuke Kamiki,Mone Kamishiraishi,Makoto Shinkai
+Spider-Man: Into the Spider-Verse,2018,117,Shameik Moore,Jake Johnson,Bob Persichetti
+Avengers: Endgame,2019,181,Robert Downey Jr.,Chris Evans,Anthony Russo
